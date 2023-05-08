@@ -1,0 +1,64 @@
+.todo{
+    margin: 0 auto;
+    border: 3px solid rgb(244, 195, 195);
+    width: 300px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(246, 176, 176);
+}
+.list{
+    position: relative;
+    margin: 0 auto;
+    border: 3px solid transparent;
+    width: 300px;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    background-color: rgb(246, 176, 176);
+}
+.plis{
+    cursor: pointer;
+    color: rgb(246, 176, 176);
+}
+button{
+    position: absolute;
+    right: 5%;
+}
+#input{
+    width: 200px;
+    border: 3px solid rgb(244, 195, 195);
+}
+.div{
+    margin: 0 auto;
+    border: 3px solid rgb(244, 195, 195);
+    width: 300px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 5px;
+    position: relative;
+    margin-top: 5px;
+    border-radius:60%;
+    background-color: rgb(246, 176, 176);
+}
+h1{
+    font-size: 8px;
+}
+
+button{
+    background-color: white;
+    border-radius: 70%;
+   position: absolute;
+top: 50%;
+transform: translate(0,-50%);
+}
+.u{
+    
+    overflow: hidden;
+  position: absolute;
+  left: 10%;
+    color: rgb(247, 73, 102);
+}
